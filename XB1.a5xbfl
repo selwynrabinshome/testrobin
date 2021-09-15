@@ -1,0 +1,13 @@
+'TIP: You can encrypt this file when it is saved, or password protect it, by adding a special comment to the first line of the file (with no leading spaces).
+'To encrypt the file, set the comment on the first line to: 'ENCRYPTED
+'To password protect the file (which will also encrypt it), set the comment on the first line to: 'PASSWORD:your_password_phrase
+'To create a compiled AEX library (when this project is published), add the comment 'COMPILEAEX anywhere in the code.
+
+'
+'You can reference functions defined in other function libraries by using the compile_xbasic_function_library() function.
+'For example: dim p as p; p = compile_xbasic_function_library("name of library");
+
+
+function f1 AS C ()
+	F1 = "ALPHA"
+END FUNCTION 
