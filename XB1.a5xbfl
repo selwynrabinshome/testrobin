@@ -9,5 +9,5 @@
 
 
 function f1 AS C ()
-	F1 = "beta"
+	F1 = "beta2"
 END FUNCTION 
